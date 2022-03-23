@@ -1,0 +1,33 @@
+
+.first{
+    background-color: rgb(255, 72, 0);
+    height: 120px;
+    width: 400px;
+    border-radius: 45% 45% 3% 3%;
+}
+
+.second{
+    background-color: rgba(27, 207, 27, 0.842);
+    height: 20px;
+    width: 400px;
+    border-radius: 5px;
+}
+.third{
+    background-color: brown;
+    height: 20px;
+    width: 175px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+.fourth{
+    background-color: rgb(231, 231, 63);
+    height: 10px;
+    width: 400px;
+    border-radius: 10px;
+}
+.fifth{
+    background-color:  rgb(255, 72, 0);
+    width: 400px;
+    height: 50px;
+    border-radius: 5px 5px 15px 15px;
+}
